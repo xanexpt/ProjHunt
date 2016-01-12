@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="#aa44ee">
+
+    <LinearLayout
+        android:id="@+id/like_counter"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="12dp"
+        android:weightSum="2"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/arrow_up" />
+
+        <TextView
+            android:id="@+id/like_counter_number"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textStyle="bold"
+            android:text="20" />
+
+        </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageview_post"
+        android:layout_toRightOf="@id/like_counter"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/default_post_img"/>
+
+    <RelativeLayout
+        android:id="@+id/comment_icons"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/imageview_user_icon"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:scaleType="centerCrop"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/user"
+            android:layout_weight="0.09" />
+
+        <ImageView
+            android:id="@+id/imageview_comment"
+            android:layout_toRightOf="@id/imageview_user_icon"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/comment_img"/>
+
+        <TextView
+            android:id="@+id/comments_counter"
+            android:layout_toRightOf="@id/imageview_comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="10dp"
+            android:text="0"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toLeftOf="@id/comment_icons"
+        android:layout_toRightOf="@id/imageview_post"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/post_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="title"/>
+
+        <TextView
+            android:id="@+id/post_description"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="description"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

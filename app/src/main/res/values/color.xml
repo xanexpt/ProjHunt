@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#337BB6</color>
+    <color name="ColorPrimaryDark">#11488B</color>
+
+    <color name="list_view_grey">#E6E6E6</color>
+    <color name="list_view_white">#FFFFFF</color>
+
+    <color name="tool_box_text_colot">#FFFFFF</color>
+    <color name="date_picker_text_color">#FFFFFF</color>
+
+</resources>

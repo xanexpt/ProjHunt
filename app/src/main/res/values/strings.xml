@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BoldInt ProductHunt Bruno</string>
+    <string name="action_settings">Settings</string>
+    <string name="working_status">working</string>
+
+    <string name="splash_text_helper">SPLASH SCREEN!</string>
+    <string name="base_text_helper">.......Response helper.........</string>
+
+    <string name="retry_button">Retry</string>
+    <string name="error_no_internet">Check your internet connection and try again!</string>
+
+    <string name="no_data_available">No Posts available to show</string>
+
+</resources>

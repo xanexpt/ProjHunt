@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bruno.marques\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-82096c2208d77b0467a0e8a55bb5973ffcee20fc.jar" />
+    </item>
+    <item
+        jar="C:\bold\ProjHunt\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\classes-48549d6975af8b27cba7f027b5947edf4c29ab1e.jar" />
+    </item>
+    <item
+        jar="C:\bold\ProjHunt\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-386136b4d4898c643bed9604aaf69b2a1657990f.jar" />
+    </item>
+    <item
+        jar="C:\bold\ProjHunt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\classes-eabd92771ac24c7e9f433eb7f8e52c50a44eabfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\bruno.marques\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\gson-2.3-19f7db507eaa1c3cff4c66a6462317855354f2c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\bruno.marques\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.16\d8f5b9114ebe0f76de7fbf55e950540959ce4ff8\library-1.0.16.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d8f5b9114ebe0f76de7fbf55e950540959ce4ff8">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\library-1.0.16-d26ce543e4200d4d9a2e3e7ab560b5898c3ce91f.jar" />
+    </item>
+    <item
+        jar="C:\Users\bruno.marques\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-82096c2208d77b0467a0e8a55bb5973ffcee20fc.jar" />
+    </item>
+    <item
+        jar="C:\bold\ProjHunt\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\classes-48549d6975af8b27cba7f027b5947edf4c29ab1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bruno.marques\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\gson-2.3-19f7db507eaa1c3cff4c66a6462317855354f2c4.jar" />
+    </item>
+    <item
+        jar="C:\bold\ProjHunt\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-386136b4d4898c643bed9604aaf69b2a1657990f.jar" />
+    </item>
+    <item
+        jar="C:\bold\ProjHunt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\classes-eabd92771ac24c7e9f433eb7f8e52c50a44eabfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\bruno.marques\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.16\d8f5b9114ebe0f76de7fbf55e950540959ce4ff8\library-1.0.16.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d8f5b9114ebe0f76de7fbf55e950540959ce4ff8">
+        <dex dex="C:\bold\ProjHunt\app\build\intermediates\pre-dexed\debug\library-1.0.16-d26ce543e4200d4d9a2e3e7ab560b5898c3ce91f.jar" />
+    </item>
+
+</items>
